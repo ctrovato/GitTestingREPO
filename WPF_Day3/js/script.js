@@ -87,26 +87,41 @@
 //    console.log(loopingArray [i][10]);
 //}
 
-// MATH RANDOM
+// __________MATH RANDOM
 
 //console.log(Math.random())
 //
 //jamaican 35%, japan 35%, burger 10%, duck 20%
 
-var foodType;
-var randomValue= Math.random();
-var Jamaican=.35;
-var Japan=.7;
-var Burger=.8;
-var Duck=1;
+//var foodType;
+//var randomValue= Math.random();
+//var Jamaican=.35;
+//var Japan=.7;
+//var Burger=.8;
+//var Duck=1;
+//
+//if(randomValue> Jamaican){foodType="Jamaican"}
+//else if(randomValue>Burger){foodType="Japan"}
+//else if(randomValue> Jamaican){foodType="Burger"}
+//else{foodType="Duck"}
+//
+//console.log(foodType);
+//console.log(randomValue);
 
-if(randomValue> Jamaican){foodType="Jamaican"}
-else if(randomValue>Burger){foodType="Japan"}
-else if(randomValue> Jamaican){foodType="Burger"}
-else{foodType="Duck"}
 
-console.log(foodType);
-console.log(randomValue);
+
+
+// _____RIDE EXAMPLE
+//
+//var oldEnough = false;
+//
+//if (oldEnough){
+//    console.log("YOU CAN RIDE BRO!");
+//} else{
+//    console.log("NO GO DUDE!");
+//}
+
+
 
 
 
