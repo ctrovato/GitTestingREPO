@@ -31,3 +31,6 @@ var averageGPA= totalGPA/7;       /* Result Variable */
 
  /* Result to Print with GPA as Floating Variable*/
 console.log("Calculating all seven months here at full sail. My average  GPA is "+averageGPA+". This is an average of my total GPA scores." );
+
+/* Space NOT NEEDED*/
+console.log("")
