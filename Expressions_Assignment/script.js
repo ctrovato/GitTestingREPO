@@ -69,3 +69,5 @@ var dozensOrdered= 4;    /*Given*/
 var wingsPerDozen= 12;   /*Given*/
 
 var wingsPerPerson= dozensOrdered * wingsPerDozen / (otherFriends+myself);  /* Result Variable */
+
+/* This calculation is solving the number of wings each of us get after ordering 4 dozen. Taking dozenOrdered * wingsPerDozen which is 48. Then dividing the number of friends at the table. */
