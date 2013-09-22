@@ -60,3 +60,5 @@ console.log("")
  _________________PROBLEM THREE: Wacky_______________________________________________
  This  Problem calculates how many wings each person at the table will be able to eat.
  */
+
+console.log("Problem Three: Wacky")
