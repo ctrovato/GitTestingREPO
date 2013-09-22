@@ -62,3 +62,5 @@ console.log("")
  */
 
 console.log("Problem Three: Wacky")
+
+var myself=1;   /*Given*/
