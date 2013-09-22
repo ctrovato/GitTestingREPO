@@ -46,3 +46,5 @@ var object= " 32GB iPhone 5S with a two year contract";  /*Given*/
 var salesTaxPercentage= .07;  /*Given*/
 
 var priceWithTax= (originalPrice*salesTaxPercentage)+(originalPrice);   /* Result Variable */
+
+/* This calculation is solving the price after the sales tax. Taking originalPrice * salesTaxPercentage which is 21. Then adding the 21 to the original price. */
