@@ -28,3 +28,5 @@ var totalGPA= 25;                 /* Result Variable */
 var averageGPA= totalGPA/7;       /* Result Variable */
 
 /* myGPAscores added, equaling totalGPA of 25. Then, the scores are divided by the number of semesters, which is 7.
+
+ /* Result to Print with GPA as Floating Variable*/
