@@ -71,3 +71,7 @@ var wingsPerDozen= 12;   /*Given*/
 var wingsPerPerson= dozensOrdered * wingsPerDozen / (otherFriends+myself);  /* Result Variable */
 
 /* This calculation is solving the number of wings each of us get after ordering 4 dozen. Taking dozenOrdered * wingsPerDozen which is 48. Then dividing the number of friends at the table. */
+
+
+/* Result to Print */
+console.log("After ordering "+dozensOrdered+" dozen orders at Buffalo Wild Wings, each of us got "+wingsPerPerson+ " wings for ourselves.");
