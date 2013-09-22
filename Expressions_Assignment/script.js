@@ -42,3 +42,5 @@ console.log("")
 console.log("Problem Two:  Industrial")
 
 var originalPrice= 300.00 ;   /*Given*/
+var object= " 32GB iPhone 5S with a two year contract";  /*Given*/
+var salesTaxPercentage= .07;  /*Given*/
