@@ -39,3 +39,4 @@ console.log("")
 /* __________________PROBLEM TWO: Industrial________________________________________
  This Problem calculates the price I will pay for the new 32GB iPhone 5s with a two year contract after sales tax.
  */
+console.log("Problem Two:  Industrial")
