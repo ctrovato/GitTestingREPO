@@ -48,3 +48,11 @@ var salesTaxPercentage= .07;  /*Given*/
 var priceWithTax= (originalPrice*salesTaxPercentage)+(originalPrice);   /* Result Variable */
 
 /* This calculation is solving the price after the sales tax. Taking originalPrice * salesTaxPercentage which is 21. Then adding the 21 to the original price. */
+
+/* Result to Print */    /* String */
+console.log("My "+object+" was originally $"+originalPrice+" with a two year contract through AT&T, but after sales tax, it comes to $"+priceWithTax+".");
+
+/* Space NOT NEEDED */
+console.log("")
+
+
