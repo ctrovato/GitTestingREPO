@@ -67,3 +67,5 @@ var myself=1;           /*Given*/
 var otherFriends= 2;     /*Given*/
 var dozensOrdered= 4;    /*Given*/
 var wingsPerDozen= 12;   /*Given*/
+
+var wingsPerPerson= dozensOrdered * wingsPerDozen / (otherFriends+myself);  /* Result Variable */
