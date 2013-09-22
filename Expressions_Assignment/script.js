@@ -56,3 +56,7 @@ console.log("My "+object+" was originally $"+originalPrice+" with a two year con
 console.log("")
 
 
+/*
+ _________________PROBLEM THREE: Wacky_______________________________________________
+ This  Problem calculates how many wings each person at the table will be able to eat.
+ */
