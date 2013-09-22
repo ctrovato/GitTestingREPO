@@ -26,3 +26,5 @@ console.log("Problem One:  Personal");
 var myGPAscores=["3.5","3.5","3.5","3.5","3.5","3.5","4.0"];     /* Given*/ /* Array */
 var totalGPA= 25;                 /* Result Variable */
 var averageGPA= totalGPA/7;       /* Result Variable */
+
+/* myGPAscores added, equaling totalGPA of 25. Then, the scores are divided by the number of semesters, which is 7.
