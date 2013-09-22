@@ -34,3 +34,6 @@ console.log("Calculating all seven months here at full sail. My average  GPA is 
 
 /* Space NOT NEEDED*/
 console.log("")
+
+
+/* __________________PROBLEM TWO: Industrial________________________________________
