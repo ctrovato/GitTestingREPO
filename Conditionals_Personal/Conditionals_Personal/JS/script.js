@@ -14,3 +14,5 @@ var secondUser="";
 var validLength=false
 var validMatch=false;
 
+do{
+    firstUser=prompt("Please Enter A UserName (min:8|max:12)");
