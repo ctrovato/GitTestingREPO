@@ -23,9 +23,12 @@ do{
 
     secondUser=prompt("Please re-enter the UserName");
 
-    if(secondUser==firstUser)
-    {
-        console.log("They Match");
-        validMatch=true;
+if(secondUser==firstUser)
+{
+    console.log("They Match");
+    validMatch=true;
+}
 
-    }
+else {console.log("They Do Not Match");
+
+
