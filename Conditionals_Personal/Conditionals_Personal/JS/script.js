@@ -9,3 +9,4 @@
 
 var firstPass="";
 var secondPass = "";
+var firstUser= "";
