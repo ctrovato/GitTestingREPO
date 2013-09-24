@@ -32,5 +32,10 @@ if(secondUser==firstUser)
 else {console.log("They Do Not Match");
     } while (validMatch==false);
 
+do  {
+    firstPass = prompt("Please enter a Password (min:8|max:12)");
+    if(firstPass.length>=8 && firstPass.length<=12){
+        validLength=true;}
+
 
 
