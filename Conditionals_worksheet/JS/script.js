@@ -46,7 +46,7 @@ console.log("")
   Determine the appropriate letter grade for that number using conditional statements.*/
 //
 console.log("Letter Grade Calculator");
-var studentGrade= 81;
+var studentGrade=prompt("PLEASE ENTER YOUR GRADE PERCENTAGE");
 var letter= "";
 
 if(studentGrade>=95) {
