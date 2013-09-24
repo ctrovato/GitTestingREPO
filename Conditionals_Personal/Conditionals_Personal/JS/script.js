@@ -22,3 +22,6 @@ do{
     while (validLength==false)
 
     secondUser=prompt("Please re-enter the UserName");
+
+    if(secondUser==firstUser)
+    {
