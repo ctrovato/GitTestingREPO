@@ -20,3 +20,5 @@ do{
         validLength=true;}
 }
     while (validLength==false)
+
+    secondUser=prompt("Please re-enter the UserName");
