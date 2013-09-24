@@ -16,3 +16,6 @@ var validMatch=false;
 
 do{
     firstUser=prompt("Please Enter A UserName (min:8|max:12)");
+    if(firstUser.length>=8 && firstUser.length<=12){
+        validLength=true;}
+
