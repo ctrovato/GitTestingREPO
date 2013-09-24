@@ -25,3 +25,7 @@ do{
 
     if(secondUser==firstUser)
     {
+        console.log("They Match");
+        validMatch=true;
+
+    }
