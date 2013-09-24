@@ -39,5 +39,10 @@ do  {
     }
     while (validLength==false);
 
+secondPass =prompt("Please re-enter the Password.") ;
+if(secondPass==firstPass)
+{
+
+
 
 
