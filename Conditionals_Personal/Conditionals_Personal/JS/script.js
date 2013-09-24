@@ -30,5 +30,7 @@ if(secondUser==firstUser)
 }
 
 else {console.log("They Do Not Match");
+    } while (validMatch==false);
+
 
 
