@@ -10,3 +10,5 @@
 var firstPass="";
 var secondPass = "";
 var firstUser= "";
+var secondUser="";
+var validLength=false
