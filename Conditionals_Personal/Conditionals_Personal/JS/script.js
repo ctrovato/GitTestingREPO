@@ -8,3 +8,4 @@
 
 
 var firstPass="";
+var secondPass = "";
