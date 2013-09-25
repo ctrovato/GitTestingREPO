@@ -6,6 +6,9 @@
  * To change this template use File | Settings | File Templates.
  */
 
+/* Carmine Trovato      09/24/2013       Conditionals Personal   */
+
+
 
 var firstPass="";
 var secondPass = "";
@@ -45,6 +48,9 @@ if(secondPass==firstPass)
     console.log("They Match");
     validMatch=true;
 }
+else {console.log("They Do Not Match");
+
+}while (validMatch==false);
 
 
 
