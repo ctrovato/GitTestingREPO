@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="46" column="54" selection-start="1627" selection-end="1627" vertical-scroll-proportion="0.96910113">
+            <state line="29" column="5" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.15730338">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -102,7 +102,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,6 +122,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,8 +130,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -365,7 +365,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="46" column="54" selection-start="1627" selection-end="1627" vertical-scroll-proportion="0.96910113">
+        <state line="29" column="5" selection-start="1029" selection-end="1029" vertical-scroll-proportion="0.15730338">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
