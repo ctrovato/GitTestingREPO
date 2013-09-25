@@ -8,7 +8,7 @@
 
 /* Carmine Trovato      09/24/2013       Conditionals Personal   */
 
-/* This problem is */
+/* This problem is an example of a UserName and Password input before  entering a website */
 
 var firstUser= "";          /* Result input Variable */
 var secondUser="";          /* Result input Variable */
@@ -27,7 +27,7 @@ do  {firstUser=prompt("Please Enter A UserName (min:6|max:12)");
 
     }while (validLength==false)   /* "While"   verifying the length from the "if" statement */
 
-     secondUser=prompt("Please re-enter the UserName");
+     secondUser=prompt("Please Re-Enter the UserName");
 
 if(secondUser==firstUser)   /*  Verifies that the second UserName input is equal to the first UserName */
 
@@ -47,7 +47,7 @@ do  {firstPass = prompt("Please enter a Password (min:6|max:12)");
 
     }while (validLength==false);
 
-     secondPass =prompt("Please re-enter the Password.") ;
+     secondPass =prompt("Please Re-Enter the Password.") ;
 
 if(secondPass==firstPass)   /*  Verifies that the second password input is equal to the first password */
 
