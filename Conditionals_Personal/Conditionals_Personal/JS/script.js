@@ -8,7 +8,7 @@
 
 /* Carmine Trovato      09/24/2013       Conditionals Personal   */
 
-
+/* This problem is
 
 var firstPass="";           /* Result input Variable */
 var secondPass = "";        /* Result input Variable */
@@ -22,8 +22,8 @@ var validMatch=false;       /* True False Variable */
 
 
 do{
-    firstUser=prompt("Please Enter A UserName (min:8|max:12)");
-    if(firstUser.length>=8 && firstUser.length<=12){
+    firstUser=prompt("Please Enter A UserName (min:6|max:12)");
+    if(firstUser.length>=6 && firstUser.length<=12){
         validLength=true;}
 }
     while (validLength==false)   /* "While"   verifying the length from the "if" statement */
@@ -44,8 +44,8 @@ else {console.log("UserNames DO NOT Match");
  While the valid length is "false" it prompts the user to re enter the password */
 
 do  {
-    firstPass = prompt("Please enter a Password (min:8|max:12)");
-    if(firstPass.length>=8 && firstPass.length<=12){
+    firstPass = prompt("Please enter a Password (min:6|max:12)");
+    if(firstPass.length>=6 && firstPass.length<=12){
         validLength=true;}
     }
     while (validLength==false);
