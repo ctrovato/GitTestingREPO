@@ -10,30 +10,38 @@
 
 
 
-var firstPass="";
-var secondPass = "";
-var firstUser= "";
-var secondUser="";
-var validLength=false
-var validMatch=false;
+var firstPass="";           /* Result input Variable */
+var secondPass = "";        /* Result input Variable */
+var firstUser= "";          /* Result input Variable */
+var secondUser="";          /* Result input Variable */
+var validMatch=false;       /* True False Variable */
+
+/* This "do" "while" loop is set with a prompt and length,
+ so that when the user enters an username it will verify that the user name is the correct length .
+ While the valid length is "false" it prompts the user to re enter the username*/
+
 
 do{
     firstUser=prompt("Please Enter A UserName (min:8|max:12)");
     if(firstUser.length>=8 && firstUser.length<=12){
         validLength=true;}
 }
-    while (validLength==false)
+    while (validLength==false)   /* "While"   verifying the length from the "if" statement */
 
     secondUser=prompt("Please re-enter the UserName");
 
-if(secondUser==firstUser)
+if(secondUser==firstUser)   /*  Verifies that the second UserName input is equal to the first UserName */
 {
-    console.log("They Match");
+    console.log("UserNames Match");
     validMatch=true;
 }
 
-else {console.log("They Do Not Match");
+else {console.log("UserNames DO NOT Match");
     } while (validMatch==false);
+
+/* This "do" "while" loop is set with a prompt and length,
+ so that when the user enters a password it will verify that the password is the correct length.
+ While the valid length is "false" it prompts the user to re enter the password */
 
 do  {
     firstPass = prompt("Please enter a Password (min:8|max:12)");
@@ -42,15 +50,18 @@ do  {
     }
     while (validLength==false);
 
-secondPass =prompt("Please re-enter the Password.") ;
-if(secondPass==firstPass)
-{
-    console.log("They Match");
-    validMatch=true;
-}
-else {console.log("They Do Not Match");
+    secondPass =prompt("Please re-enter the Password.") ;
+
+if(secondPass==firstPass);   /*  Verifies that the second password input is equal to the first password */
+
+ {console.log("They Match");
+  validMatch=true;
+ }
+
+   else {console.log("They Do Not Match");
 
 }while (validMatch==false);
+
 
 
 

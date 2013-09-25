@@ -5,7 +5,7 @@
     <ignored path="Conditionals_Personal.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/index.html" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1379987923742" ignored="false" />
-    <file path="/script.js" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1380065993476" ignored="false" />
+    <file path="/script.js" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1380067406373" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="32" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.875">
+            <state line="0" column="68" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="67" selection-start="235" selection-end="235" vertical-scroll-proportion="-0.1264045">
+            <state line="68" column="19" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.8946629">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -102,7 +102,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -123,6 +122,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,6 +145,13 @@
       <option name="filePath" />
       <option name="scope" value="ALL" />
       <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
       <method />
     </configuration>
     <list size="0" />
@@ -243,6 +250,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="68" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="28" selection-start="1825" selection-end="1825" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JS/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="35" selection-start="1226" selection-end="1226" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CSS/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
@@ -296,14 +349,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="32" selection-start="62" selection-end="62" vertical-scroll-proportion="-1.875">
+        <state line="0" column="68" selection-start="15" selection-end="15" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="67" selection-start="235" selection-end="235" vertical-scroll-proportion="-0.1264045">
+        <state line="68" column="19" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.8946629">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
