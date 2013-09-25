@@ -52,15 +52,14 @@ do  {
 
     secondPass =prompt("Please re-enter the Password.") ;
 
-if(secondPass==firstPass);   /*  Verifies that the second password input is equal to the first password */
+if(secondPass==firstPass)   /*  Verifies that the second password input is equal to the first password */
 
  {console.log("They Match");
   validMatch=true;
  }
 
-   else {console.log("They Do Not Match");
-
-}while (validMatch==false);
+else {console.log("They Do Not Match");
+    }while (validMatch==false);
 
 
 
