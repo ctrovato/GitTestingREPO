@@ -42,6 +42,9 @@ do  {
 secondPass =prompt("Please re-enter the Password.") ;
 if(secondPass==firstPass)
 {
+    console.log("They Match");
+    validMatch=true;
+}
 
 
 
