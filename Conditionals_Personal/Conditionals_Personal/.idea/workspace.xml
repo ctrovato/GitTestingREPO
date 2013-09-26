@@ -4,8 +4,8 @@
     <list default="true" id="d233cab3-0f45-4e36-b730-f5843f22dbc8" name="Default" comment="" />
     <ignored path="Conditionals_Personal.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.html" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1379987923742" ignored="false" />
-    <file path="/script.js" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1380067406373" ignored="false" />
+    <file path="/index.html" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1380150747341" ignored="false" />
+    <file path="/script.js" changelist="d233cab3-0f45-4e36-b730-f5843f22dbc8" time="1380237589268" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="3" column="7" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+            <state line="3" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -37,7 +37,7 @@
       <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JS/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="36" selection-start="1852" selection-end="1852" vertical-scroll-proportion="0.68398875">
+            <state line="12" column="24" selection-start="331" selection-end="331" vertical-scroll-proportion="0.252809">
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -120,6 +120,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Conditionals_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -130,8 +144,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -358,14 +372,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="3" column="7" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+        <state line="3" column="24" selection-start="54" selection-end="54" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JS/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="36" selection-start="1852" selection-end="1852" vertical-scroll-proportion="0.68398875">
+        <state line="12" column="24" selection-start="331" selection-end="331" vertical-scroll-proportion="0.252809">
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
