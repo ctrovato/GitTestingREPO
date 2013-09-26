@@ -31,3 +31,6 @@ if (totalAssets > subaruImpreza){
  The console log will output this following statement */
 else if(totalAssets == 24999){
     console.log("Looks Like You Have Enough Money To Buy A Car BUT, You Should Probably St A Car Lone");}
+
+/*This "ELSE" statement will console log will output this following statement. If non of the above statements are true */
+else  {console.log("Looks Like You Will Have To Take Out A Car Lone");}
