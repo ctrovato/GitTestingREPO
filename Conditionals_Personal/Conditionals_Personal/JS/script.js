@@ -18,3 +18,6 @@ var other1=prompt("Enter Other Assets Total: ");
 
 /* Car Price Variable */
 var subaruImpreza= 24999;
+
+/*this variable Is the totalAssets of all cash assets */
+var totalAssets= (savings1+checking1+other1);
