@@ -21,3 +21,6 @@ var subaruImpreza= 24999;
 
 /*this variable Is the totalAssets of all cash assets */
 var totalAssets= (savings1+checking1+other1);
+
+/*this "IF" statement is stating if the TotalAssets is Greater than the car.
+ The console log will output this statement */
