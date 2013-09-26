@@ -29,3 +29,5 @@ if (totalAssets > subaruImpreza){
 
 /*This "ELSE IF" statement is stating if the TotalAssets is equal than the car.
  The console log will output this following statement */
+else if(totalAssets == 24999){
+    console.log("Looks Like You Have Enough Money To Buy A Car BUT, You Should Probably St A Car Lone");}
