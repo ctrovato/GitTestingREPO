@@ -26,3 +26,6 @@ var totalAssets= (savings1+checking1+other1);
  The console log will output this statement */
 if (totalAssets > subaruImpreza){
     console.log("Looks Like You Have Enough Money To Buy A Car WITHOUT A Car Lone");}
+
+/*This "ELSE IF" statement is stating if the TotalAssets is equal than the car.
+ The console log will output this following statement */
