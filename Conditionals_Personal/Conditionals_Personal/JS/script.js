@@ -15,3 +15,6 @@
 var savings1=prompt("Enter Checking Account Total: ");
 var checking1=prompt("Enter Savings AccountTotal: ");
 var other1=prompt("Enter Other Assets Total: ");
+
+/* Car Price Variable */
+var subaruImpreza= 24999;
