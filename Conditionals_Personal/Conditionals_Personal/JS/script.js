@@ -24,3 +24,5 @@ var totalAssets= (savings1+checking1+other1);
 
 /*this "IF" statement is stating if the TotalAssets is Greater than the car.
  The console log will output this statement */
+if (totalAssets > subaruImpreza){
+    console.log("Looks Like You Have Enough Money To Buy A Car WITHOUT A Car Lone");}
