@@ -18,4 +18,5 @@ if(students < diplomas){
 }else if(students > diplomas){
     console.log(" WE NEED MORE DIPLOMAS !");
 }
+/* What ever inputs are not related to the Conditionals stated above, then the following console.log will print: */
 
