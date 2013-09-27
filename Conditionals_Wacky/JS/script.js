@@ -6,3 +6,6 @@ console.log("Do We Have Enough Diplomas??")
 /* Variables of Students and Diplomas  prompted by user  */
 var students = prompt ("How Many Students Are Graduating?");
 var diplomas = prompt (" How Many Diplomas Do We Have.");
+
+/* The "IF" conditional is finding out if there are more diplomas than students available.
+ */
