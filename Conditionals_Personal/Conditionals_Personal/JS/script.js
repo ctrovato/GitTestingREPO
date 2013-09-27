@@ -25,12 +25,12 @@ var totalAssets= (savings1+checking1+other1);
 /*this "IF" statement is stating if the TotalAssets is Greater than the car.
  The console log will output this statement */
 if (totalAssets > subaruImpreza){
-    console.log("Looks Like You Have Enough Money To Buy A Car WITHOUT A Car Lone");}
+    console.log("Looks Like You Have Enough Money To Buy A Car WITHOUT A Car Loan");}
 
 /*This "ELSE IF" statement is stating if the TotalAssets is equal than the car.
  The console log will output this following statement */
 else if(totalAssets == 24999){
-    console.log("Looks Like You Have Enough Money To Buy A Car BUT, You Should Probably St A Car Lone");}
+    console.log("Looks Like You Have Enough Money To Buy A Car BUT, You Should Probably Get A Car Loan");}
 
 /*This "ELSE" statement will console log will output this following statement. If non of the above statements are true */
-else  {console.log("Looks Like You Will Have To Take Out A Car Lone");}
+else  {console.log("Looks Like You Will Have To Take Out A Car Loan");}

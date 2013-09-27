@@ -8,3 +8,24 @@
 
 
 
+var agePrompt= prompt('Year Born');
+
+var ageVariable= 2013-parseInt(agePrompt);
+
+function ageRange(){
+    if(ageVariable>65){
+        return "Senior Discount";
+    }else if(ageVariable<6){
+        return "Child Discount";
+    }else{
+        return "No Discount Available";
+    }
+}
+
+if(agePrompt==''){
+    console.log('Please enter user name to continue');
+
+}else if(agePrompt== ''){
+    console.log('Please enter the year you born');
+}
+
