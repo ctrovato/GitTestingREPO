@@ -22,4 +22,6 @@ if(shoppingCarts >= customers){
     console.log("So Far, There Is Enough Shopping Carts For The Customers");
 
 /* This "ELSE" conditional will output the console.log string if there are more shopping carts than customers */
-
+}else{
+    console.log("WE NEED MORE SHOPPING CARTS");
+}
