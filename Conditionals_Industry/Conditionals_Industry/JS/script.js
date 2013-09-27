@@ -9,6 +9,5 @@
 
 /*   Carmine Trovato      09/24/2013        Conditionals Industry  */
 
-
-
+/* This Problem will calculate if there is enough shopping carts for customers  */
 
