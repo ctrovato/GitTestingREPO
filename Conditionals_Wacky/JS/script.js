@@ -8,4 +8,5 @@ var students = prompt ("How Many Students Are Graduating?");
 var diplomas = prompt (" How Many Diplomas Do We Have.");
 
 /* The "IF" conditional is finding out if there are more diplomas than students available.
- */
+ Which will console.log the following: */
+
