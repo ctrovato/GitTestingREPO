@@ -3,3 +3,4 @@
 /* This Problem Will find if we have enough Diplomas For Each Student */
 /* Console.log the Problem Name  */
 console.log("Do We Have Enough Diplomas??")
+/* Variables of Students and Diplomas  prompted by user  */
