@@ -14,4 +14,4 @@
 console.log("Do We Have Enough Shopping Carts??")
 /* Variables are input by the user: The number of shopping carts,
  and The number of Customers */
-
+var customers = prompt ("How Many Customers Are There?");
