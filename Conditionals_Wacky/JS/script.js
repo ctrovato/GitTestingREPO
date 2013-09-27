@@ -10,3 +10,6 @@ var diplomas = prompt (" How Many Diplomas Do We Have.");
 /* The "IF" conditional is finding out if there are more diplomas than students available.
  Which will console.log the following: */
 
+if(students < diplomas){
+    console.log("So Far, There Are More Diplomas Than There Are Students.");
+
