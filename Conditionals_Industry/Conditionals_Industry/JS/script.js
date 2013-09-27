@@ -16,3 +16,5 @@ console.log("Do We Have Enough Shopping Carts??")
  and The number of Customers */
 var customers = prompt ("How Many Customers Are There?");
 var shoppingCarts = prompt (" How Many Shopping Carts Do We Have.")
+
+/* This "IF" conditional will compare the number of shopping carts to the number of customers */
