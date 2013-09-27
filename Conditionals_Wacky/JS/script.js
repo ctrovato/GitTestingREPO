@@ -15,5 +15,7 @@ if(students < diplomas){
 
 /* The "ELSE IF" conditional is finding out if there are more Students than Diplomas available.
  Which will console.log the following: */
-
+}else if(students > diplomas){
+    console.log(" WE NEED MORE DIPLOMAS !");
+}
 
