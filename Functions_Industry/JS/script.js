@@ -14,3 +14,5 @@ console.log("Are You Eligible For A Discount?");
 
 /* variables are inserted by prompt */
 var age= prompt('Year Born');
+/* variable with age as a parseInt returning ageVariable as an integer  */
+var ageVariable= 2013-parseInt(age);
