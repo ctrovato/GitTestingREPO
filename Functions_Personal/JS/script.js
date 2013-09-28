@@ -8,3 +8,5 @@
 //Carmine Trovato         09/25/2013              Functions: Personal
 
 /* This Problem will calculate if your eligible for a discount based on your StudentID or the time day  */
+
+console.log("Are You Eligible For A Student Discount?");
