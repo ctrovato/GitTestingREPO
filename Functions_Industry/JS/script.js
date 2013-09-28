@@ -16,3 +16,6 @@ console.log("Are You Eligible For A Discount?");
 var age= prompt('Year Born');
 /* variable with age as a parseInt returning ageVariable as an integer  */
 var ageVariable= 2013-parseInt(age);
+
+/* This ageRange function will calculate IF the age prompted by the user is eligible for a discount
+ based on the parameter of the ageVariable above */
