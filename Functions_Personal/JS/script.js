@@ -20,3 +20,7 @@ var time=prompt("PLEASE ENTER TIME OF DAY");
 /* the meal price will be decided from the "if" "else" statement after all variables are entered */
 var mealPrice="";
 
+/* This "if" "else" statement will calculate if the Student has a valid ID, AND/OR The time of day based on happy hour
+ "ELSE" will input a meal price of $6.00, if user has no valid ID or the time isn't between 4 and 5.*/
+
+
