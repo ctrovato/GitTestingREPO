@@ -11,3 +11,6 @@
 /*This problem will calculate if a customer is eligible for a discount based on ones age */
 /* Console.log The Problems Title */
 console.log("Are You Eligible For A Discount?");
+
+/* variables are inserted by prompt */
+var age= prompt('Year Born');
