@@ -33,3 +33,7 @@ else if(s=="yes")
 
 else{return mealPrice = 6.00;}       /* The ELSE will return 6.00 if the conditionals above are not met */
 }
+
+discount(time, studentId);
+/* console.log will output the following string based on the input variables in the "if" "else" statement */
+console.log("Your Price is "+mealPrice);
