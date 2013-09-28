@@ -25,4 +25,9 @@ function ageRange(ageVariable){
     else if(ageVariable<=6){
         return "Child Discount";      /* IF the age less than or equal to 6, it will return Child Discount */
     }else{
-        return "No Discount Available";
+        return "No Discount Available";   /* If nothing applies to the conditionals above, "ELSE" will return "No Discount Available */
+    }
+}
+
+console.log(ageRange(ageVariable));  /* console.log will print the output of the function ageRange with the ageVariable Parameter */
+
