@@ -12,3 +12,4 @@
 console.log("Are You Eligible For A Student Discount?"); /*console.log Problem Title */
 
 /* the studentId prompt will input if proper ID is Present */
+var studentId=prompt("DO YOU HAVE A VALID STUDENT ID: YES or NO ");
