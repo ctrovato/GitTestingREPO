@@ -21,3 +21,9 @@ var kilometers=parseInt(miles);
 /* the milesKilometers Function with "kilometers" as a parameter.
  Parameter(number of miles divided by 0.62137) */
 
+function milesKilometers(kilometers){
+    var kilometers=miles/0.62137;
+    return kilometers;
+}
+
+
