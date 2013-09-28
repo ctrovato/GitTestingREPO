@@ -14,3 +14,6 @@ console.log("HOW MANY KILOMETERS IS IT?");
 
 /* "Miles" Variables Prompt by users */
 var miles=prompt("HOW MANY MILES?");
+
+/* Kilometers variable parseInt specifying "miles" returning as an integer*/
+var kilometers=parseInt(miles);
