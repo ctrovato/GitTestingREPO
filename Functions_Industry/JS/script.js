@@ -21,5 +21,8 @@ var ageVariable= 2013-parseInt(age);
  based on the parameter of the ageVariable above */
 function ageRange(ageVariable){
     if(ageVariable>=65){
-        return "Senior Discount";     /* IF the age is greater than or equal to 65, it will return Senior Discount */
- }
+        return "Senior Discount";}     /* IF the age is greater than or equal to 65, it will return Senior Discount */
+    else if(ageVariable<=6){
+        return "Child Discount";      /* IF the age less than or equal to 6, it will return Child Discount */
+    }else{
+        return "No Discount Available";
