@@ -14,3 +14,4 @@ console.log("Are You Eligible For A Student Discount?"); /*console.log Problem T
 /* the studentId prompt will input if proper ID is Present */
 var studentId=prompt("DO YOU HAVE A VALID STUDENT ID: YES or NO ");
 /* the variable prompt will input the time */
+var time=prompt("PLEASE ENTER TIME OF DAY");
