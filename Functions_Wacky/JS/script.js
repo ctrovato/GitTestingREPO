@@ -17,3 +17,7 @@ var miles=prompt("HOW MANY MILES?");
 
 /* Kilometers variable parseInt specifying "miles" returning as an integer*/
 var kilometers=parseInt(miles);
+
+/* the milesKilometers Function with "kilometers" as a parameter.
+ Parameter(number of miles divided by 0.62137) */
+
