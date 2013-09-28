@@ -11,3 +11,6 @@
 /* This problem is Converting Miles To Kilometers */
 /* Title console.log */
 console.log("HOW MANY KILOMETERS IS IT?");
+
+/* "Miles" Variables Prompt by users */
+var miles=prompt("HOW MANY MILES?");
