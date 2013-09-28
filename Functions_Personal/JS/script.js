@@ -9,4 +9,6 @@
 
 /* This Problem will calculate if your eligible for a discount based on your StudentID or the time day  */
 
-console.log("Are You Eligible For A Student Discount?");
+console.log("Are You Eligible For A Student Discount?"); /*console.log Problem Title */
+
+/* the studentId prompt will input if proper ID is Present */
