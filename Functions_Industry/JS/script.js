@@ -9,3 +9,5 @@
 //Carmine Trovato        09/27/2013           Functions: Industry
 
 /*This problem will calculate if a customer is eligible for a discount based on ones age */
+/* Console.log The Problems Title */
+console.log("Are You Eligible For A Discount?");
