@@ -31,3 +31,5 @@ if (t>=4 && t<=5)
 else if(s=="yes")
     {return mealPrice=4.50;}          /* The "IF ELSE" conditional is returning mealPrice 4.50 IF student ID is "yes" */
 
+else{return mealPrice = 6.00;}       /* The ELSE will return 6.00 if the conditionals above are not met */
+}
