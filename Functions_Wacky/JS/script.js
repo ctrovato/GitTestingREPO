@@ -27,3 +27,5 @@ function milesKilometers(kilometers){
 }
 
 /* console.log will print the output of the function milesKilometers with the kilometers Parameter(number of miles divided by 0.62137)   */
+milesKilometers(kilometers);
+console.log(milesKilometers(kilometers)+" Kilometers");
