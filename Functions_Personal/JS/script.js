@@ -24,6 +24,10 @@ var mealPrice="";
  "ELSE" will input a meal price of $6.00, if user has no valid ID or the time isn't between 4 and 5.*/
 
 function discount(t,s){               /* The Function discount is passing the parameters Time and Student Id */
-    if (t>=4 && t<=5)
-    {return mealPrice=4.50;}          /* The IF conditional is returning mealPrice 4.50 IF time is beteen 4 and 5  */
+
+if (t>=4 && t<=5)
+    {return mealPrice=4.50;}          /* The "IF" conditional is returning mealPrice 4.50 IF time is beteen 4 and 5  */
+
+else if(s=="yes")
+    {return mealPrice=4.50;}          /* The "IF ELSE" conditional is returning mealPrice 4.50 IF student ID is "yes" */
 
